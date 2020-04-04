@@ -17,4 +17,12 @@ I received my second M.S. degree in 2019 from the Computer Engineering Departmen
 
 My main research interests focus on natural language processing, particularly in spoken question answering. My research explores the approaches to convert the spoken QA task into machine comprehension style QA to improve the accuracy and handle the uncertainty in speech recognition systems.
 
+### Education
+
+* __PhD student__ Computer Science, Boğaziçi University Istanbul, Turkey
+* __Master__ Computer Science, Boğaziçi University, Istanbul, Turkey, 2019 
+* __Master 2__ Computer Science, Ecole Normale Superiéur, Lyon, France, 2014 
+* __Licence__ Computer Engineering, Galatasaray University, Istanbul, 2012
+* __Erasmus Programme__ Computer Engineering, Institut National Sciences Appliquées, Lyon, France, 2011
+
 
