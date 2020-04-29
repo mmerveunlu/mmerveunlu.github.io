@@ -17,6 +17,9 @@ I received my second M.S. degree in 2019 from the Computer Engineering Departmen
 
 My main research interests focus on natural language processing, particularly in spoken question answering. My research explores the approaches to convert the spoken QA task into machine comprehension style QA to improve the accuracy and handle the uncertainty in speech recognition systems.
 
+My detailed CV can be found [here](https://mmerveunlu.github.io/files/MerveUnluCV.pdf).
+
+
 ### Education
 
 * __PhD student__ Computer Science, Boğaziçi University Istanbul, Turkey
@@ -25,4 +28,8 @@ My main research interests focus on natural language processing, particularly in
 * __Licence__ Computer Engineering, Galatasaray University, Istanbul, 2012
 * __Erasmus Programme__ Computer Engineering, Institut National Sciences Appliquées, Lyon, France, 2011
 
-
+### Teaching 
+* __Algorithm and Advanced Programming__ Undergraduate, Computer Engineering GSU
+* __Parallel Systems__  Undergraduate, Computer Engineering GSU
+* __Natural Language Processing with Deep Learning__ Learning Center, GSU 
+* __Data Preprocessing__ Learning Center, GSU
